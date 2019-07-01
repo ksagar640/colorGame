@@ -1,0 +1,22 @@
+{
+  "name": "color_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colorGame.js",
+  "scripts": {
+    "deploy": "gh-pages -d gamefiles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksagar640/colorGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksagar640/colorGame/issues"
+  },
+  "homepage": "https://ksagar640.github.io/colorGame/colorGame#readme",
+  "dependencies": {
+    "ghpages": "0.0.10"
+  }
+}
